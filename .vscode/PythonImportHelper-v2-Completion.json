@@ -1,0 +1,164 @@
+[
+    {
+        "label": "mymodule",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mymodule",
+        "description": "mymodule",
+        "detail": "mymodule",
+        "documentation": {}
+    },
+    {
+        "label": "integer_var",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "description": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "peekOfCode": "integer_var = 10\nfloat_var = 20.5\nstring_var = \"Hello Python\"\nboolean_var = True\nprint(integer_var)\nprint(float_var)\nprint(string_var)\nprint(boolean_var)",
+        "detail": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "documentation": {}
+    },
+    {
+        "label": "float_var",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "description": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "peekOfCode": "float_var = 20.5\nstring_var = \"Hello Python\"\nboolean_var = True\nprint(integer_var)\nprint(float_var)\nprint(string_var)\nprint(boolean_var)",
+        "detail": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "documentation": {}
+    },
+    {
+        "label": "string_var",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "description": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "peekOfCode": "string_var = \"Hello Python\"\nboolean_var = True\nprint(integer_var)\nprint(float_var)\nprint(string_var)\nprint(boolean_var)",
+        "detail": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "documentation": {}
+    },
+    {
+        "label": "boolean_var",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "description": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "peekOfCode": "boolean_var = True\nprint(integer_var)\nprint(float_var)\nprint(string_var)\nprint(boolean_var)",
+        "detail": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "operators",
+        "description": "operators",
+        "peekOfCode": "a = 10\nb = 3\nsum = a + b    # 13\ndifference = a - b # 7\nproduct = a * b # 30\nquotient = a / b # 3.3333",
+        "detail": "operators",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "operators",
+        "description": "operators",
+        "peekOfCode": "b = 3\nsum = a + b    # 13\ndifference = a - b # 7\nproduct = a * b # 30\nquotient = a / b # 3.3333",
+        "detail": "operators",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "kind": 5,
+        "importPath": "operators",
+        "description": "operators",
+        "peekOfCode": "sum = a + b    # 13\ndifference = a - b # 7\nproduct = a * b # 30\nquotient = a / b # 3.3333",
+        "detail": "operators",
+        "documentation": {}
+    },
+    {
+        "label": "difference",
+        "kind": 5,
+        "importPath": "operators",
+        "description": "operators",
+        "peekOfCode": "difference = a - b # 7\nproduct = a * b # 30\nquotient = a / b # 3.3333",
+        "detail": "operators",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "kind": 5,
+        "importPath": "operators",
+        "description": "operators",
+        "peekOfCode": "product = a * b # 30\nquotient = a / b # 3.3333",
+        "detail": "operators",
+        "documentation": {}
+    },
+    {
+        "label": "quotient",
+        "kind": 5,
+        "importPath": "operators",
+        "description": "operators",
+        "peekOfCode": "quotient = a / b # 3.3333",
+        "detail": "operators",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "def greet(name):\n    return \"Hello, \" + name + \"!\"\nprint(greet(\"Alice\"))  # Output: Hello, Alice!\npython\n# Assuming we have a module named 'mymodule.py' with a function called 'greet'\nimport mymodule\nmymodule.greet(\"Bob\")  # Accessing the greet function from mymodule",
+        "detail": "variables_datatype",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "name = \"Alice\"  # String\nage = 30        # Integer\nheight = 5.5    # Float\nis_student = True # Boolean\npython\n# This is a single-line comment in Python\n\"\"\"\nThis is a multi-line comment\nor docstring used to describe more complex code\n\"\"\"",
+        "detail": "variables_datatype",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "age = 30        # Integer\nheight = 5.5    # Float\nis_student = True # Boolean\npython\n# This is a single-line comment in Python\n\"\"\"\nThis is a multi-line comment\nor docstring used to describe more complex code\n\"\"\"\npython",
+        "detail": "variables_datatype",
+        "documentation": {}
+    },
+    {
+        "label": "height",
+        "kind": 5,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "height = 5.5    # Float\nis_student = True # Boolean\npython\n# This is a single-line comment in Python\n\"\"\"\nThis is a multi-line comment\nor docstring used to describe more complex code\n\"\"\"\npython\n# Example of if-else statement",
+        "detail": "variables_datatype",
+        "documentation": {}
+    },
+    {
+        "label": "is_student",
+        "kind": 5,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "is_student = True # Boolean\npython\n# This is a single-line comment in Python\n\"\"\"\nThis is a multi-line comment\nor docstring used to describe more complex code\n\"\"\"\npython\n# Example of if-else statement\nage = 20",
+        "detail": "variables_datatype",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "age = 20\nif age >= 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")\npython\n# Example of a for loop\nfor i in range(5):\n    print(i)  # prints numbers 0 to 4\n# Example of a while loop",
+        "detail": "variables_datatype",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "variables_datatype",
+        "description": "variables_datatype",
+        "peekOfCode": "count = 0\nwhile count < 5:\n    print(count)\n    count += 1  # same as count = count + 1\npython\n# Defining a simple function\ndef greet(name):\n    return \"Hello, \" + name + \"!\"\nprint(greet(\"Alice\"))  # Output: Hello, Alice!\npython",
+        "detail": "variables_datatype",
+        "documentation": {}
+    }
+]
