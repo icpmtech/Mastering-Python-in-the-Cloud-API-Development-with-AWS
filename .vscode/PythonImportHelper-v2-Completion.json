@@ -1,5 +1,14 @@
 [
     {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
         "label": "mymodule",
         "kind": 6,
         "isExtraImport": true,
@@ -42,6 +51,24 @@
         "description": "Hands-on Coding.Basic Syntax Exercises.data_types",
         "peekOfCode": "boolean_var = True\nprint(integer_var)\nprint(float_var)\nprint(string_var)\nprint(boolean_var)",
         "detail": "Hands-on Coding.Basic Syntax Exercises.data_types",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Basic Syntax Exercises.control_structures",
+        "description": "Hands-on Coding.Basic Syntax Exercises.control_structures",
+        "peekOfCode": "number = 15\n# If-else statement\nif number % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")\n# Loop (for example, a simple for loop)\nfor i in range(5):\n    print(i)",
+        "detail": "Hands-on Coding.Basic Syntax Exercises.control_structures",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Function and Module Exercises.creating_functions",
+        "description": "Hands-on Coding.Function and Module Exercises.creating_functions",
+        "peekOfCode": "def factorial(n):\n    if n == 0 or n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\nprint(factorial(1))",
+        "detail": "Hands-on Coding.Function and Module Exercises.creating_functions",
         "documentation": {}
     },
     {
