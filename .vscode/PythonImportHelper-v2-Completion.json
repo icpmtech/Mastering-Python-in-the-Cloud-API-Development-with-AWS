@@ -9,6 +9,81 @@
         "documentation": {}
     },
     {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateFiles",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "manager_csv",
+        "importPath": "manager_csv",
+        "description": "manager_csv",
+        "isExtraImport": true,
+        "detail": "manager_csv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
         "label": "mymodule",
         "kind": 6,
         "isExtraImport": true,
@@ -69,6 +144,15 @@
         "description": "Hands-on Coding.Function and Module Exercises.creating_functions",
         "peekOfCode": "def factorial(n):\n    if n == 0 or n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\nprint(factorial(1))",
         "detail": "Hands-on Coding.Function and Module Exercises.creating_functions",
+        "documentation": {}
+    },
+    {
+        "label": "generate_csv",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.CSV-Workers.csv-manager",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.CSV-Workers.csv-manager",
+        "peekOfCode": "def generate_csv(template_result,filename):\n    template_result_dict = {key: str(value) for key, value in template_result.items()}\n    # Specify the CSV file name\n    csv_file =\"generated_templates\\\\\"+  filename + \".csv\"\n    # Open the CSV file in write mode\n    with open(csv_file, 'w', newline='') as file:\n        # Create a CSV writer object\n        writer = csv.writer(file)\n        # Write the header row\n        header = list(template_result_dict.keys())",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.CSV-Workers.csv-manager",
         "documentation": {}
     },
     {
