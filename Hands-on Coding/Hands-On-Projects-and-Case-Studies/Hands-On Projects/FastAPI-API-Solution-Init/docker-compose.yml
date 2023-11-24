@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+
+  apiservice:
+    build: .
+    ports:
+      - 5000:5000
+    environment:
+      - DATABASE_URL=postgres://$postgres_user:$postgres_password@database:5432/$db_name
+    volumes:
+      - ./apiservice:/app
+    command: uvicorn main:app --reload --host 0.0.0.0 --port 2000
+    depends_on:
+      - database
+
+  database:
+    image: postgres:15.1
+    ports:
+      - 5432:5432
+    expose:
+      - 5432
+    environment:
+      - POSTGRES_USER=${postgres_user}
+      - POSTGRES_PASSWORD=${postgres_password}
+      - POSTGRES_DB=${db_name}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+
+volumes:
+  postgres_data:
+
+networks:
+  default:
+    name: postgre-service_default

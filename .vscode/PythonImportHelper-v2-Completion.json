@@ -26,6 +26,310 @@
         "documentation": {}
     },
     {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
         "label": "DoesNotExist",
         "importPath": "tortoise.exceptions",
         "description": "tortoise.exceptions",
@@ -47,6 +351,174 @@
         "description": "app.database.models",
         "isExtraImport": true,
         "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vlans",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "VrfRds",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "BgpDc",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateFiles",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "AidcPartition",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "AidcType",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "BgpBbip",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ClientType",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vbus",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Interfaces",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkBus",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "AidcPartition",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ClientType",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceIds",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceIds",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vbus",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkBus",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigTemplates",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateVars",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -81,6 +553,523 @@
         "importPath": "os",
         "description": "os",
         "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.interfaces",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.interfaces",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.interfaces",
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.interfaces",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.services",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.services",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.services",
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.services",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.commom.utils.utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.commom.utils.utils",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.commom.utils.utils",
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.commom.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.generators.vlans",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.generators.vlans",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.generators.vlans",
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.generators.vlans",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.network_bus",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.network_bus",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.network_bus",
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.network_bus",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.v_bus",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.v_bus",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.v_bus",
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.services.v_bus",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "FunctionTypeEnum",
+        "importPath": "app.database.enums",
+        "description": "app.database.enums",
+        "isExtraImport": true,
+        "detail": "app.database.enums",
+        "documentation": {}
+    },
+    {
+        "label": "Environment",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "PackageLoader",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "select_autoescape",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "meta",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "manager_csv",
+        "importPath": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.managers.csv",
+        "description": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.managers.csv",
+        "isExtraImport": true,
+        "detail": "app.api.templates.DC_CV_Config_AIDC_L3_INTERNET_MED_template_TELEPAC.managers.csv",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.aidc_internet_telepac_template",
+        "description": "app.schemas.aidc_internet_telepac_template",
+        "isExtraImport": true,
+        "detail": "app.schemas.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.book.loaders.loader_template",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.book.loaders.loader_template",
+        "description": "app.api.templates.book.loaders.loader_template",
+        "detail": "app.api.templates.book.loaders.loader_template",
+        "documentation": {}
+    },
+    {
+        "label": "utils;",
+        "importPath": "app.api.templates.book.commom.utils",
+        "description": "app.api.templates.book.commom.utils",
+        "isExtraImport": true,
+        "detail": "app.api.templates.book.commom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "file_manager",
+        "importPath": "app.api.templates.book.managers.files",
+        "description": "app.api.templates.book.managers.files",
+        "isExtraImport": true,
+        "detail": "app.api.templates.book.managers.files",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "in_transaction",
+        "importPath": "tortoise.transactions",
+        "description": "tortoise.transactions",
+        "isExtraImport": true,
+        "detail": "tortoise.transactions",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.book.managers.aidc_internet_telepac_template",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.book.managers.aidc_internet_telepac_template",
+        "description": "app.api.templates.book.managers.aidc_internet_telepac_template",
+        "detail": "app.api.templates.book.managers.aidc_internet_telepac_template",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.book.managers.files.file_manager",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.book.managers.files.file_manager",
+        "description": "app.api.templates.book.managers.files.file_manager",
+        "detail": "app.api.templates.book.managers.files.file_manager",
+        "documentation": {}
+    },
+    {
+        "label": "app.api.templates.book.managers.aidc_internet_telepac_template1",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.api.templates.book.managers.aidc_internet_telepac_template1",
+        "description": "app.api.templates.book.managers.aidc_internet_telepac_template1",
+        "detail": "app.api.templates.book.managers.aidc_internet_telepac_template1",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "importPath": "app.schemas.book",
+        "description": "app.schemas.book",
+        "isExtraImport": true,
+        "detail": "app.schemas.book",
+        "documentation": {}
+    },
+    {
+        "label": "pydantic_model_creator",
+        "importPath": "tortoise.contrib.pydantic",
+        "description": "tortoise.contrib.pydantic",
+        "isExtraImport": true,
+        "detail": "tortoise.contrib.pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "pydantic_model_creator",
+        "importPath": "tortoise.contrib.pydantic",
+        "description": "tortoise.contrib.pydantic",
+        "isExtraImport": true,
+        "detail": "tortoise.contrib.pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "register_tortoise",
+        "importPath": "app.database.register",
+        "description": "app.database.register",
+        "isExtraImport": true,
+        "detail": "app.database.register",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "importPath": "app.database.config",
+        "description": "app.database.config",
+        "isExtraImport": true,
+        "detail": "app.database.config",
+        "documentation": {}
+    },
+    {
+        "label": "'from",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "'from",
+        "description": "'from",
+        "detail": "'from",
+        "documentation": {}
+    },
+    {
+        "label": "config_templates",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "aidc_partition",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "client_type",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "bgp_bbip",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "aidc_type",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "aidc_internet_telepac_template",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "interfaces",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
         "documentation": {}
     },
     {
@@ -153,6 +1142,276 @@
         "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.CSV-Workers.csv-manager",
         "peekOfCode": "def generate_csv(template_result,filename):\n    template_result_dict = {key: str(value) for key, value in template_result.items()}\n    # Specify the CSV file name\n    csv_file =\"generated_templates\\\\\"+  filename + \".csv\"\n    # Open the CSV file in write mode\n    with open(csv_file, 'w', newline='') as file:\n        # Create a CSV writer object\n        writer = csv.writer(file)\n        # Write the header row\n        header = list(template_result_dict.keys())",
         "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.CSV-Workers.csv-manager",
+        "documentation": {}
+    },
+    {
+        "label": "validate_shape",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.validators.egressshape_shape",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.validators.egressshape_shape",
+        "peekOfCode": "def validate_shape(template_vars):\n    if template_vars.egressshape <= 10:\n        return\n    elif template_vars.egressshape < 1000 and template_vars.egressshape % 10 == 0:\n        return\n    elif template_vars.egressshape >= 1000 and template_vars.egressshape % 100 == 0:\n        return\n    else:\n        raise HTTPException(status_code=400, detail=f\"The shape value specified is not supported.\")",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.validators.egressshape_shape",
+        "documentation": {}
+    },
+    {
+        "label": "validate_ixs",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.validators.ixs",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.validators.ixs",
+        "peekOfCode": "def validate_ixs(template_vars):\n    if not re.match(r'IXS\\.\\d+\\.\\d+', template_vars.ixs):\n        raise HTTPException(status_code=400, detail=f\"IXS value does not have the correct format.\")",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.validators.ixs",
+        "documentation": {}
+    },
+    {
+        "label": "VRF_RD_INTERNAL_CLIENT_LOWER_LIMIT",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "peekOfCode": "VRF_RD_INTERNAL_CLIENT_LOWER_LIMIT = 10000\nVRF_RD_INTERNAL_CLIENT_UPPER_LIMIT = 19999\nVRF_RD_EXTERNAL_CLIENT_LOWER_LIMIT = 20000\nVRF_RD_EXTERNAL_CLIENT_UPPER_LIMIT = 29999\nasync def generate_vrf_rd(template_vars, network_bus) -> str:\n    ## Checking if VRF name already in use\n    try:\n        vrf_obj = await VrfRds.get(vrf_name=template_vars.vrf_name)\n        if vrf_obj:\n            raise HTTPException(status_code=400, detail=f\"The Vrf name is already in use.\")",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "documentation": {}
+    },
+    {
+        "label": "VRF_RD_INTERNAL_CLIENT_UPPER_LIMIT",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "peekOfCode": "VRF_RD_INTERNAL_CLIENT_UPPER_LIMIT = 19999\nVRF_RD_EXTERNAL_CLIENT_LOWER_LIMIT = 20000\nVRF_RD_EXTERNAL_CLIENT_UPPER_LIMIT = 29999\nasync def generate_vrf_rd(template_vars, network_bus) -> str:\n    ## Checking if VRF name already in use\n    try:\n        vrf_obj = await VrfRds.get(vrf_name=template_vars.vrf_name)\n        if vrf_obj:\n            raise HTTPException(status_code=400, detail=f\"The Vrf name is already in use.\")\n    except DoesNotExist:",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "documentation": {}
+    },
+    {
+        "label": "VRF_RD_EXTERNAL_CLIENT_LOWER_LIMIT",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "peekOfCode": "VRF_RD_EXTERNAL_CLIENT_LOWER_LIMIT = 20000\nVRF_RD_EXTERNAL_CLIENT_UPPER_LIMIT = 29999\nasync def generate_vrf_rd(template_vars, network_bus) -> str:\n    ## Checking if VRF name already in use\n    try:\n        vrf_obj = await VrfRds.get(vrf_name=template_vars.vrf_name)\n        if vrf_obj:\n            raise HTTPException(status_code=400, detail=f\"The Vrf name is already in use.\")\n    except DoesNotExist:\n        pass",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "documentation": {}
+    },
+    {
+        "label": "VRF_RD_EXTERNAL_CLIENT_UPPER_LIMIT",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "peekOfCode": "VRF_RD_EXTERNAL_CLIENT_UPPER_LIMIT = 29999\nasync def generate_vrf_rd(template_vars, network_bus) -> str:\n    ## Checking if VRF name already in use\n    try:\n        vrf_obj = await VrfRds.get(vrf_name=template_vars.vrf_name)\n        if vrf_obj:\n            raise HTTPException(status_code=400, detail=f\"The Vrf name is already in use.\")\n    except DoesNotExist:\n        pass\n    ## Getting vrd_rd entry by network bus sorted descending by vrf_id",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.generators.vrf_rd",
+        "documentation": {}
+    },
+    {
+        "label": "get_templates",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.loaders.loader_template",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.loaders.loader_template",
+        "peekOfCode": "def get_templates(config, template_path_1,file_name):\n    env = Environment(\n        loader=PackageLoader(\"app\",\"templates\"),\n        autoescape=select_autoescape()\n    )\n    template_1 = env.get_template(template_path_1)\n    template_list = { \"template1\":template_1.render(config),\"file_name\":file_name}\n    return template_list",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.loaders.loader_template",
+        "documentation": {}
+    },
+    {
+        "label": "generate_csv",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.managers.csv.manager_csv",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.managers.csv.manager_csv",
+        "peekOfCode": "def generate_csv(template_result,filename):\n    template_result_dict = {key: str(value) for key, value in template_result.items()}\n    # Specify the CSV file name\n    csv_file =\"generated_templates\\\\\"+  filename + \".csv\"\n    # Open the CSV file in write mode\n    with open(csv_file, 'w', newline='') as file:\n        # Create a CSV writer object\n        writer = csv.writer(file)\n        # Write the header row\n        header = list(template_result_dict.keys())",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.managers.csv.manager_csv",
+        "documentation": {}
+    },
+    {
+        "label": "LoaderDto",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.models.loaderDto",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.models.loaderDto",
+        "peekOfCode": "class LoaderDto:\n    def __init__(self, path):\n        self.path = path\n    def get_template(self):\n        return self.path",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.models.loaderDto",
+        "documentation": {}
+    },
+    {
+        "label": "SERVICE_TYPE",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.services.services",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.services.services",
+        "peekOfCode": "SERVICE_TYPE = 9\nasync def generate_service(client_type):\n    function_type = 50 if client_type.client_type==\"interno\" else 51\n    service_ids = await ServiceIds.filter(service_type=SERVICE_TYPE, \n                                                 function_type=function_type).order_by('-sequence_id').first()\n    if not service_ids:\n        try:\n            service_id_obj = await ServiceIds.create(service_type=SERVICE_TYPE,\n                                                    function_type=function_type,\n                                                    sequence_id=1,",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.api.templates.book.services.services",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.config",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.config",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": {\n            \"engine\": \"tortoise.backends.asyncpg\",\n            \"credentials\": {\n                \"database\": \"fastapi_db\", #os.environ.get(\"db_name\"),\n                \"host\": \"127.0.0.1\",\n                \"password\": \"Nl^mD-6gXc2B\", #os.environ.get(\"postgres_password\"),\n                \"port\": 5432,\n                \"user\": \"admin\", #os.environ.get(\"postgres_user\"),",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.config",
+        "documentation": {}
+    },
+    {
+        "label": "AidcPartitionEnu",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "peekOfCode": "class AidcPartitionEnum (Enum):\n    COVILHA = \"Covilhã\"\n    PICOAS = \"Picoas\"\nclass ExternalNetworkEnum(Enum):\n    PRIME = \"Prime\"\n    NOKIA = \"Nokia\"\nclass FunctionTypeEnum(Enum):\n    interno = 50\n    externo = 51",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "documentation": {}
+    },
+    {
+        "label": "ExternalNetworkEnum",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "peekOfCode": "class ExternalNetworkEnum(Enum):\n    PRIME = \"Prime\"\n    NOKIA = \"Nokia\"\nclass FunctionTypeEnum(Enum):\n    interno = 50\n    externo = 51",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "documentation": {}
+    },
+    {
+        "label": "FunctionTypeEnum",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "peekOfCode": "class FunctionTypeEnum(Enum):\n    interno = 50\n    externo = 51",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.enums",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigTemplates",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "peekOfCode": "class ConfigTemplates(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    path = fields.CharField(max_length=256)\n    name = fields.CharField(max_length=128, unique=True)\nclass TemplateVars(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    template_id = fields.ForeignKeyField(\n        \"models.ConfigTemplates\", related_name=\"template\"\n    )\n    variable_name = fields.CharField(max_length=64)",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateVars",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "peekOfCode": "class TemplateVars(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    template_id = fields.ForeignKeyField(\n        \"models.ConfigTemplates\", related_name=\"template\"\n    )\n    variable_name = fields.CharField(max_length=64)\n    variable_value = fields.JSONField(default=[])\nclass TemplateFiles(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    file_id_timestap = fields.CharField(max_length=128)",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateFiles",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "peekOfCode": "class TemplateFiles(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    file_id_timestap = fields.CharField(max_length=128)\n    file_name = fields.CharField(max_length=1024)\n    file_content = fields.CharField(max_length=5000)\nclass Books(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    title = fields.CharField(max_length=128)\n    content = fields.CharField(max_length=1024)\n    file_name = fields.CharField(max_length=5000)",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Books",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "peekOfCode": "class Books(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    title = fields.CharField(max_length=128)\n    content = fields.CharField(max_length=1024)\n    file_name = fields.CharField(max_length=5000)\nclass Authors(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    name = fields.CharField(max_length=128)\n    books = fields.CharField(max_length=1024)",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Authors",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "peekOfCode": "class Authors(models.Model, TimestampMixin):\n    id = fields.IntField(pk=True)\n    name = fields.CharField(max_length=128)\n    books = fields.CharField(max_length=1024)",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "register_tortoise",
+        "kind": 2,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.register",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.register",
+        "peekOfCode": "def register_tortoise(app, config: Optional[dict] = None, generate_schemas: bool = False) -> None:\n    @app.on_event(\"startup\")\n    async def init_orm():\n        await Tortoise.init(config=config)\n        if generate_schemas:\n            await Tortoise.generate_schemas()\n    @app.on_event(\"shutdown\")\n    async def close_orm():\n        await Tortoise.close_connections()",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.database.register",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.routes.book",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.routes.book",
+        "peekOfCode": "router = APIRouter()\nlogger = logging.getLogger(__name__)\n@router.get(\"/book/file\")\nasync def get_file(file_name:str):\n    file_path=await ManagerFile.get_file(file_name)\n    return FileResponse(file_path, media_type='application/octet-stream',filename=file_path)\n@router.delete(\"/book/file\")\nasync def delete_file(file_name:str):\n    try:\n        file_message=await ManagerFile.delete_file(file_name)",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.routes.book",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.routes.book",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.routes.book",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@router.get(\"/book/file\")\nasync def get_file(file_name:str):\n    file_path=await ManagerFile.get_file(file_name)\n    return FileResponse(file_path, media_type='application/octet-stream',filename=file_path)\n@router.delete(\"/book/file\")\nasync def delete_file(file_name:str):\n    try:\n        file_message=await ManagerFile.delete_file(file_name)\n        return {",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.routes.book",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigTemplateInSchema",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "peekOfCode": "ConfigTemplateInSchema = pydantic_model_creator(\n    ConfigTemplates, name=\"ConfigTemplateIn\", exclude_readonly=True\n)\nConfigTemplateOutSchema = pydantic_model_creator(\n    ConfigTemplates, name=\"ConfigTemplateOut\", exclude=[\"created_at\", \"modified_at\", \"template\"]\n)\nConfigTemplateDatabaseSchema = pydantic_model_creator(\n    ConfigTemplates, name=\"ConfigTemplate\", exclude=[\"created_at\", \"modified_at\"]\n)\n# TODO File serve schema example",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigTemplateOutSchema",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "peekOfCode": "ConfigTemplateOutSchema = pydantic_model_creator(\n    ConfigTemplates, name=\"ConfigTemplateOut\", exclude=[\"created_at\", \"modified_at\", \"template\"]\n)\nConfigTemplateDatabaseSchema = pydantic_model_creator(\n    ConfigTemplates, name=\"ConfigTemplate\", exclude=[\"created_at\", \"modified_at\"]\n)\n# TODO File serve schema example\n# class FileRequestIn(BaseModel):\n#     file_id: int\n#     file_type: str",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigTemplateDatabaseSchema",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "peekOfCode": "ConfigTemplateDatabaseSchema = pydantic_model_creator(\n    ConfigTemplates, name=\"ConfigTemplate\", exclude=[\"created_at\", \"modified_at\"]\n)\n# TODO File serve schema example\n# class FileRequestIn(BaseModel):\n#     file_id: int\n#     file_type: str",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.config_templates",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTemplateVar",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "peekOfCode": "class UpdateTemplateVar(BaseModel):\n    variable_name: Optional[str]\n    variable_value: Optional[str]",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateVarsInSchema",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "peekOfCode": "TemplateVarsInSchema = pydantic_model_creator(\n    TemplateVars, name=\"TemplateVarsIn\", exclude=[\"template_id\"], exclude_readonly=True)\nTemplateVarsOutSchema = pydantic_model_creator(\n    TemplateVars, name=\"TemplateVars\", exclude =[\"modified_at\"]\n)\nclass UpdateTemplateVar(BaseModel):\n    variable_name: Optional[str]\n    variable_value: Optional[str]",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateVarsOutSchema",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "peekOfCode": "TemplateVarsOutSchema = pydantic_model_creator(\n    TemplateVars, name=\"TemplateVars\", exclude =[\"modified_at\"]\n)\nclass UpdateTemplateVar(BaseModel):\n    variable_name: Optional[str]\n    variable_value: Optional[str]",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template_vars",
+        "documentation": {}
+    },
+    {
+        "label": "AidcTemplateIn",
+        "kind": 6,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template",
+        "peekOfCode": "class AidcTemplateIn(BaseModel):\n    name: str\n    author: str\n    book: str\n# class AidcPartitionOutSchema(BaseModel):\n#     status: str\n#     data: Union[AidcPartitionOut, List[AidcPartitionOut]] | None = None\n#     message: str | None = None",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.app.schemas.template",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.main",
+        "description": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.main",
+        "peekOfCode": "app = FastAPI()\n# Register middlewares\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:8080\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n# Register routes",
+        "detail": "Hands-on Coding.Hands-On-Projects-and-Case-Studies.Hands-On Projects.FastAPI-API-Solution-Init.main",
         "documentation": {}
     },
     {
